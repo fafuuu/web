@@ -1,0 +1,14 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "lel",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "1 nicer dude",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.4"
+  }
+}
